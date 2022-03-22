@@ -18,6 +18,7 @@ public class PracticaPMD {
         ejemPMD.metodoDobleReturn();
     }
 
+    
     public boolean metodoDobleReturn() {
         int iValor = 10;
         return iValor != 5;
